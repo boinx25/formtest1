@@ -1,0 +1,12 @@
+Create a simple html form that will accept a number input from the user. The form will validate for the content of the input and will give an output based on the following:
+
+1. Validation - Inform the user that the field cannot be blank and that it accepts numbers only.
+2. If the user enters "0", output the text: "Nothing to do, you entered a zero"
+3. If the user enters "1", output the text: "Thank you for entering the number 1"
+4. If the user enters a number greater than 1, output the text (for example: 3):
+	"- countdown: 3"
+	"- countdown: 2"
+	"- countdown: 1"
+	"- countdown: 0"
+
+Time limit is 1 hour only.
